@@ -57,7 +57,3 @@ freeline/
 freeline_project_description.json
 
 .idea/
-container/libs/
-container/src/main/java/
-container/src/main/res/drawable/
-processing/libs/
